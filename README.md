@@ -1,4 +1,4 @@
-![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/lab_9.svg?raw=true)
+![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/lab_10.svg?raw=true)
 # Практическое задание на создание HTML-страниц.
            Задание: Создайте несколько квадратов с разными классами и цветами. 
            Задача прятать по одному при определенной ширине экрана. 
